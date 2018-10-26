@@ -1,6 +1,6 @@
 # Marsrover kata
 
-CI: https://api.travis-ci.org/RamonAranda/marsrover.svg?branch=master
+CI: ![](https://api.travis-ci.org/RamonAranda/marsrover.svg?branch=master)
 
 Based on: http://kata-log.rocks/mars-rover-kata
 
